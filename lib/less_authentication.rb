@@ -1,5 +1,2 @@
 require "less_authentication/version"
-
-module LessAuthentication
-  # Your code goes here...
-end
+require File.dirname(__FILE__) + '/less_authentication/action_controller/base'

@@ -1,6 +1,6 @@
 # LessAuthentication
 
-TODO: Write a gem description
+authentication for less and simple
 
 ## Installation
 
